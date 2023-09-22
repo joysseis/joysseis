@@ -26,6 +26,8 @@ Olá meu nome é Joyce, sou paraense, estudante de Engenharia de computação. N
 
 ![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
 
+[![](https://visitcount.itsvg.in/api?id=joysseis&label=Profile%20Views&color=10&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 
 ## Linguagens mais usadas
 
@@ -34,3 +36,9 @@ Olá meu nome é Joyce, sou paraense, estudante de Engenharia de computação. N
 
 ## Repositório fav 🌹
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joysseis&repo=crud&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+
+
+
+[![](https://visitcount.itsvg.in/api?id=joysseis&label=Profile%20Views&color=10&icon=8&pretty=false)](https://visitcount.itsvg.in)
